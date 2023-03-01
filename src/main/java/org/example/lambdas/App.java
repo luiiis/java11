@@ -28,7 +28,8 @@ public class App {
        //app.probar("IMPAR");
        //app.sumar();
 
-       
+        Archivo ar = new Archivo();
+        ar.escribir();
     }
 }
 
